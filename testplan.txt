@@ -2,4 +2,4 @@ medical device test plan
 TC001:Power ON Test
 TC002:Display Test
 TC003: Battery test
-TC004: response time=5 secs
+TC004: response time=2 secs

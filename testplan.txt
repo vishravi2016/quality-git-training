@@ -1,0 +1,3 @@
+medical device test plan
+TC001:Power ON Test
+TC002:Display Test

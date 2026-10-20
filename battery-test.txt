@@ -1,0 +1,3 @@
+battery validation test plan
+TC101: verify battery level
+TC102: verify low battery warning
